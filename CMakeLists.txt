@@ -22,6 +22,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 set(msg_files
   "msg/GimbalAngles.msg"
+  "msg/DetectionCoordinates.msg"
 )
 
 set(srv_files
